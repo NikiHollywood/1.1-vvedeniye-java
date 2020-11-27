@@ -9,7 +9,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[В списке из Валидных ключей для проверки, два ключа не являются валидными](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/1")
+[В списке из Валидных ключей для проверки, два ключа не являются валидными](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/blob/master/src/%D0%B0%D0%B4%D1%80%D0%B5%D1%81")
 
 [В списке из Невалидных ключей для проверки, один ключ является валидным](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/2")
 
