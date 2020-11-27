@@ -8,8 +8,10 @@
 На тестирование затрачено: 01:00 
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/2
-* https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/1
+
+[В списке из Валидных ключей для проверки, два ключа не являются валидными](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/1")
+
+[В списке из Невалидных ключей для проверки, один ключ является валидным](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/2")
 
 ## Описание процесса тестировании
 
