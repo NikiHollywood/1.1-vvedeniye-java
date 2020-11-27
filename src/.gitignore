@@ -4,7 +4,7 @@ HELP.md
 .gradle
 build/
 target/
-
+productian/
 
 ### STS ###
 .apt_generated
