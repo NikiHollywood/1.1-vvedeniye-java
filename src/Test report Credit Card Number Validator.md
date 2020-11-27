@@ -9,7 +9,7 @@
 
 В результате тестирования выявлено:
 
-[Валидные номера карт длиной 16 цифр не проходят проверку #5 ](адрес "https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/5") 
+[Валидные номера карт длиной 16 цифр не проходят проверку #5 ]("https://github.com/NikiHollywood/1.1-vvedeniye-java/issues/5") 
 
 ## Описание процесса тестировании
 Руководство по установке IntelliJ IDEA (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
